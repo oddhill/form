@@ -29,6 +29,7 @@
   "dependencies": {
     "jquery": ">=1.5"
   },
+  "main": "jquery.form.js",
   "jam": {
     "main": "jquery.form.js",
     "dependencies": {
